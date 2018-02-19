@@ -47,7 +47,7 @@ $(eval $(call M,d5aa2072f662d4118b9f4c63b94601a6,coreutils-8.26.tar.xz,https://f
 $(eval $(call M,78fce113c34e7a7941080bcd0d21fecc,curl-7.53.1.tar.lzma,http://curl.haxx.se/download/curl-7.53.1.tar.lzma))
 $(eval $(call M,569354697ff1cfc9a9de3781361015fa,diffutils-3.5.tar.xz,https://ftp.gnu.org/gnu/diffutils/diffutils-3.5.tar.xz))
 $(eval $(call M,9936aa8009438ce185bea2694a997fc1,findutils-4.6.0.tar.gz,https://ftp.gnu.org/gnu/findutils/findutils-4.6.0.tar.gz))
-$(eval $(call M,a5f65570cd9107ec8a8ec88f17b31bb1,flex-2.6.3.tar.gz,https://github.com/westes/flex/releases/download/v2.6.3/flex-2.6.3.tar.gz))
+$(eval $(call M,2882e3179748cc9f9c23ec593d6adc8d,flex-2.6.4.tar.gz,https://github.com/westes/flex/releases/download/v2.6.4/flex-2.6.4.tar.gz))
 $(eval $(call M,b3230110e0cab777e0df7631837ac36e,freetype-2.7.1.tar.bz2,https://sourceforge.net/projects/freetype/files/freetype2/2.7.1/freetype-2.7.1.tar.bz2/download))
 $(eval $(call M,4e7dbc81163e60fd4f0b52496e7542c9,gawk-4.1.4.tar.xz,https://ftp.gnu.org/gnu/gawk/gawk-4.1.4.tar.xz))
 $(eval $(call M,df3f5690eaa30fd228537b00cb7b7590,gettext-0.19.8.1.tar.xz,https://ftp.gnu.org/gnu/gettext/gettext-0.19.8.1.tar.xz))
