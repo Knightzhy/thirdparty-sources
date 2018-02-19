@@ -33,8 +33,8 @@ check/$(2): $(2)
 endef
 
 $(eval $(call M,0ef8be2ee8acb4dba5a66b247a254995,apcu-5.1.8.tgz,https://pecl.php.net/get/apcu-5.1.8.tgz))
-$(eval $(call M,e81a851967c79b5ce9bfbc909e4bf735,apr-1.6.2.tar.bz2,http://www-us.apache.org/dist/apr/apr-1.6.2.tar.bz2))
-$(eval $(call M,069a9a980776acab05212c5f37ef8368,apr-util-1.6.0.tar.bz2,http://www-us.apache.org/dist/apr/apr-util-1.6.0.tar.bz2))
+$(eval $(call M,12f2a349483ad6f12db49ba01fbfdbfa,apr-1.6.3.tar.bz2,http://www-us.apache.org/dist/apr/apr-1.6.3.tar.bz2))
+$(eval $(call M,8ff5dc36fa39a2a3db1df196d3ed6086,apr-util-1.6.1.tar.bz2,http://www-us.apache.org/dist/apr/apr-util-1.6.1.tar.bz2))
 $(eval $(call M,50f97f4159805e374639a73e2636f22e,autoconf-2.69.tar.xz,https://ftp.gnu.org/gnu/autoconf/autoconf-2.69.tar.xz))
 $(eval $(call M,24cd3501b6ad8cd4d7e2546f07e8b4d4,automake-1.15.1.tar.xz,https://ftp.gnu.org/gnu/automake/automake-1.15.1.tar.xz))
 $(eval $(call M,c342201de104cc9ce0a21e0ad10d4021,bison-3.0.4.tar.xz,https://ftp.gnu.org/gnu/bison/bison-3.0.4.tar.xz))
