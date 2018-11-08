@@ -1,5 +1,7 @@
 DisableStackProtector = 0
 ReleaseAsDebug = 0
+StaticLinkLibraries = 0
+
 CPPFLAGS += -DGTEST_USE_OWN_TR1_TUPLE=0
 
 TARGET = server
